@@ -1,4 +1,4 @@
-# BST--PacketsReconstructor
+# BST-PacketsReconstructor
 //package HackerRankPraktikum.BST;
 import java.util.*;
     public class Solution {
